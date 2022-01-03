@@ -1,0 +1,22 @@
+name: aind
+channels:
+- conda-forge
+- anaconda
+- defaults
+dependencies:
+- libcxx
+- cython
+- matplotlib
+- jupyter
+- nltk
+- nb_conda
+- pandas
+- pydot
+- pydotplus
+- python=3.8
+- scikit-learn
+- scipy
+- tqdm
+- pip:
+  - udacity-pa>=0.2
+#  - z3-solver
