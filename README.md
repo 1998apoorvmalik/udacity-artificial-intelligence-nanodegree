@@ -1,4 +1,4 @@
-# Artificial Intelligence Nanodegree Program Resources
+# Udacity Artificial Intelligence Nanodegree
 
 ## Certificate
 
