@@ -3,7 +3,7 @@
 ## Certificate
 
 [Verification link](https://confirm.udacity.com/CTCD9YJQ)
-![Graduation certificate](https://github.com/1998apoorvmalik/udacity-artificial-intelligence-nanodegree/blob/main/certificate.png?raw=true)
+![Graduation certificate](certificate.png)
 
 ## Projects
 
