@@ -1,5 +1,7 @@
 # Udacity Artificial Intelligence Nanodegree
 
+This repository contains all my nanodegree's project work. I graduated from this program in 2020. Please find the links to the main projects and their description below.
+
 ## Certificate
 
 [Verification link](https://confirm.udacity.com/CTCD9YJQ)
