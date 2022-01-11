@@ -19,4 +19,4 @@ dependencies:
 - tqdm
 - pip:
   - udacity-pa>=0.2
-#  - z3-solver
+ - z3-solver
